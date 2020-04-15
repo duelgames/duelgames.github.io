@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <desc>Created with Lunacy</desc>
+  <defs>
+    <rect width="24" height="24" id="artboard_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#artboard_1" clip-rule="evenodd" />
+    </clipPath>
+  </defs>
+  <g id="volume-off" clip-path="url(#clip_1)">
+    <use xlink:href="#artboard_1" stroke="none" fill="#FFFFFF" fill-opacity="0" />
+    <g id="volume-off" transform="translate(1.525879E-05 0)">
+      <path d="M0 0L24 0L24 24L0 24L0 0Z" id="Background" fill="none" stroke="none" />
+      <path d="M9 1L6.91 3.09L9 5.18M1.27 0C1.27 0 0 1.27 0 1.27C0 1.27 4.73 6 4.73 6L1.999 6C0.894983 6 0 6.89498 0 7.999L0 10.001C0 11.105 0.894983 12 1.999 12C2.99933 12 4 12 4 12C4 12 9 17 9 17C9 17 9 10.27 9 10.27C9 10.27 13.25 14.53 13.25 14.53C12.58 15.04 11.83 15.46 11 15.7C11 15.7 11 17.77 11 17.77C12.38 17.45 13.63 16.82 14.68 15.96C14.68 15.96 16.73 18 16.73 18C16.73 18 18 16.73 18 16.73L9 7.73M16 9C16 9.94 15.8 10.82 15.46 11.64L16.97 13.15C17.62 11.91 18 10.5 18 9C18 4.72 15 1.14 11 0.23L11 2.29C13.89 3.15 16 5.83 16 9M13.5 9C13.5 7.23 12.5 5.71 11 4.97L11 7.18L13.45 9.63C13.5 9.43 13.5 9.21 13.5 9L13.5 9Z" transform="translate(3 3)" id="Shape" fill="#FFFFFF" stroke="none" />
+    </g>
+  </g>
+</svg>

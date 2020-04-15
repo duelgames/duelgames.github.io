@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <desc>Created with Lunacy</desc>
+  <defs>
+    <rect width="24" height="24" id="artboard_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#artboard_1" clip-rule="evenodd" />
+    </clipPath>
+  </defs>
+  <g id="easy" clip-path="url(#clip_1)">
+    <use xlink:href="#artboard_1" stroke="none" fill="#070429" fill-opacity="0" />
+    <g id="robot" transform="translate(3.051758E-05 0)">
+      <path d="M0 0L24 0L24 24L0 24L0 0Z" id="Background" fill="none" stroke="none" />
+      <path d="M11 0C12.1046 0 13 0.895431 13 2C13 2.74 12.6 3.39 12 3.73L12 5L13 5C16.866 5 20 8.13401 20 12L21 12C21.5523 12 22 12.4477 22 13L22 16C22 16.5523 21.5523 17 21 17L20 17L20 18C20 19.1046 19.1046 20 18 20L4 20C2.89543 20 2 19.1046 2 18L2 17L1 17C0.447715 17 0 16.5523 0 16L0 13C0 12.4477 0.447715 12 1 12L2 12C2 8.13401 5.13401 5 9 5L10 5L10 3.73C9.4 3.39 9 2.74 9 2C9 0.89543 9.89543 0 11 0" transform="translate(1 2)" id="Shape" fill="#FFFFFF" stroke="none" />
+    </g>
+    <path d="M2.5 0C1.11929 0 0 1.11929 0 2.5C0 3.88071 1.11929 5 2.5 5C3.88071 5 5 3.88071 5 2.5C5 1.11929 3.88071 0 2.5 0L2.5 0Z" transform="translate(14 13)" id="Shape-path" fill="#10AC12" stroke="none" />
+    <path d="M2.5 0C1.11929 0 0 1.11929 0 2.5C0 3.88071 1.11929 5 2.5 5C3.88071 5 5 3.88071 5 2.5C5 1.11929 3.88071 0 2.5 0" transform="translate(5 13)" id="Shape-path" fill="#10AC12" stroke="none" />
+  </g>
+</svg>

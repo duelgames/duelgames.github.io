@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <desc>Created with Lunacy</desc>
+  <defs>
+    <rect width="24" height="24" id="artboard_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#artboard_1" clip-rule="evenodd" />
+    </clipPath>
+  </defs>
+  <g id="chat" clip-path="url(#clip_1)">
+    <use xlink:href="#artboard_1" stroke="none" fill="#FFFFFF" fill-opacity="0" />
+    <g id="forum">
+      <path d="M0 0L24 0L24 24L0 24L0 0Z" id="Background" fill="none" stroke="none" />
+      <path d="M14 0C14.5523 0 15 0.447715 15 1L15 10.001C15 10.5527 14.5527 11 14.001 11L4 11L1.65615 13.3439C0.741482 14.2585 0 13.9514 0 12.6579L0 1C0 0.447715 0.447715 0 1 0L14 0ZM17.999 4L19 4C19.5523 4 20 4.44772 20 5L20 17.6579C20 18.9514 19.2585 19.2585 18.3439 18.3439L16 16L5 16C4.44772 16 4 15.5523 4 15L4 13.999C4 13.4473 4.44727 13 4.999 13L16.001 13Q16.0994 13 16.1959 12.9808Q16.2924 12.9616 16.3833 12.924Q16.4742 12.8863 16.556 12.8316Q16.6378 12.777 16.7074 12.7074Q16.777 12.6378 16.8316 12.556Q16.8863 12.4742 16.924 12.3833Q16.9616 12.2924 16.9808 12.1959Q17 12.0994 17 12.001L17 4.999C17 4.44727 17.4473 4 17.999 4Z" transform="translate(2 2)" id="Shape" fill="#ffffff" fill-rule="evenodd" stroke="none" />
+    </g>
+  </g>
+</svg>
